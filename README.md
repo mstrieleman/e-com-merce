@@ -1,7 +1,7 @@
 # e-com-merce
 A sample e-commerce site. 
 
-## features
+## Features
 - Shopping cart
 - Product reviews
 - Payment gateway that accepts credit cards
