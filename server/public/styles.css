@@ -6,6 +6,14 @@
   width: 100px;
 }
 
+.information{
+  min-width: 80%;
+}
+
+.shrink{
+  justify-content: center;
+}
+
 .infobox {
   width: 80%;
   height: 300px;
@@ -70,6 +78,10 @@
     -ms-flex: 1;
     flex: 1;
   }
+}
+
+.card-deck .card {
+  min-width: 220px;
 }
 
 .overflow-hidden { overflow: hidden; }
