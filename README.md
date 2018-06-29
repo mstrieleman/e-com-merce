@@ -1,5 +1,5 @@
 # e-com-merce
-A sample e-commerce site. 
+A sample e-commerce site.
 
 ## Features
 - Shopping cart
@@ -9,5 +9,5 @@ A sample e-commerce site.
 - More to be added soon!
 
 ## Current Progress
-(Click to enlarge)
-![progress](https://user-images.githubusercontent.com/14259747/42070538-bd416044-7b0b-11e8-912a-4fbd1d39e895.PNG)
+Click & enlarge for a much better view.
+![Click to enlarge](https://user-images.githubusercontent.com/14259747/42085268-d2a578a6-7b44-11e8-99ff-5f1bbfd67cf5.PNG)
